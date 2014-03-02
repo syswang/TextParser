@@ -1,2 +1,0 @@
-ENTER SENTENCE 1: people, car.
-ENTER SENTENCE 2: person, vehicle.
